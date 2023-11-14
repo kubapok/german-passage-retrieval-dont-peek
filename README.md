@@ -14,4 +14,4 @@ Directory structure
 * `config.txt` — configuration file
 * `test-A` — directory with test data
 * `test-A/in.tsv` — input data for the test set
-
+* `test-A/expected.tsv` — expected output data for the test set
